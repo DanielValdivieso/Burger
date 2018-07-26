@@ -23,16 +23,18 @@ ul {
 
 img {
     align-content: center;
+    width: 150px; height:150px;
+    padding: 5px;
 }
 
 h1 {
     text-align: center;
-    text-shadow: 2px 2px #ffffff;
+    /* text-shadow: 2px 2px #ffffff; */
 }
 
 h2 {
     text-align: center;
-    text-shadow: 2px 2px #ffffff;
+    /* text-shadow: 2px 2px #ffffff; */
 }
 
 .create-update-form {
@@ -55,7 +57,7 @@ html, body {
 }
 
 body {
-    background-image: url(https://fortunedotcom.files.wordpress.com/2014/07/184130285.jpg);
+    background-image: url(https://producttestingusa.com/uploads/sites/Secret%20Dining/Background%20Images/Burger%20king.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -67,12 +69,12 @@ div, body {
     margin: 0;
     padding: 0;
     font-family: exo, sans-serif;
-    color: black;
+    color: rgb(145, 111, 111);
 }
 
 .footer {
     text-align: center;
-    text-shadow: 1px 1px #ffffff;
+    /* text-shadow: 1px 1px #ffffff; */
 }
 
 .wrapper {
